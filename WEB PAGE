@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>List of Products</title>
+</head>
+<body>
+
+    <h2><b><i>List of Products</i></b></h2>
+
+    <ol>
+        <li>
+            <a href="https://www.amazon.in/s?k=dresses">Dresses</a>
+        </li>
+        <li>
+            <a href="https://www.amazon.in/s?k=toys">Toys</a>
+        </li>
+        <li>
+            <a href="https://www.amazon.in/s?k=utensils">Utensils</a>
+        </li>
+    </ol>
+
+</body>
+</html>
